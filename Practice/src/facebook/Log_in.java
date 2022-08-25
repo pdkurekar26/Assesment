@@ -15,8 +15,9 @@ public class Log_in {
 		
 		d.get("https://www.facebook.com/");
 		d.manage().window().maximize();
-		System.out.println("completed");
+		System.out.println("completed  test");
 		d.close(); 
 	
 	}
+	
 }
